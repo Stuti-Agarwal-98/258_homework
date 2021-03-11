@@ -11,4 +11,6 @@ and end2end deployment of the model on an android application deployed over an a
 
 
 
-####All the SNAPSHOTS SHOW THE ENTIRE SET UP
+####All the SNAPSHOTS SHOW THE ENTIRE SET 
+
+###Assignment2 has a video recording of setup  zoom_0.mp4
