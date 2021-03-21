@@ -61,5 +61,5 @@ and end2end deployment of the model on an android application deployed over an a
 
 
 
-###Extra credit : All the notebooka have interactive scater plots using TSNE
+###Extra credit : All the notebooks have interactive scatter plots using TSNE
 ![interactive graph](https://user-images.githubusercontent.com/71077352/111919344-c60cbf00-8a46-11eb-86d6-3cba6bdf91ab.gif)
