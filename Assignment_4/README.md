@@ -3,7 +3,7 @@
 
 
 # Pure Numpy 
-# Pure Keras, Tensorflow 
+# Pure Keras
 
 # Tasks completed:
 
