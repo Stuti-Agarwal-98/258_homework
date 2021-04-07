@@ -8,15 +8,25 @@
 # Tasks completed:
 
 Mini-Batch Gradient Descent
+
 Dropout Regularization Layer
+
 Weight Initialization
+
 Image Augmentation
+
 Neurons and Layers Tuning
+
 Using ReLU Activation Layer
+
 Normalization
+
 Appropriate Learning Rate
+
 Plotting Testing to training accuracy
+
 Visualization, Confusion Matrix
+
 Common Errors 
 
 All the colabs are commented 
