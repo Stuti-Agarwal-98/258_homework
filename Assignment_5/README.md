@@ -32,6 +32,7 @@ Pytorch (Train RMSE = 5.5701 , Testing RMSE = 4.8073):
 
 XGBoost (train-rmse:3.63329	test-rmse:4.33446):
 100k training data, Early stopping, Max Depth = 8, Gamma = 0, ETA = 0.05
+
 Reference/Modified code from the following notebooks:
 
  https://colab.research.google.com/drive/1xS2YjhCYGnOrsyVRKxqN-PvdFROSnDvM?authuser=1#scrollTo=0hkZkAFvWJF1
