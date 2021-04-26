@@ -13,4 +13,4 @@ https://arxiv.org/abs/2010.00462
 
 #### Slides: https://www.slideshare.net/stuti_agarwal/nlp-and-its-application-in-insurance-short-story-presentation
 
-#### Video :
+#### Video : https://youtu.be/rxijd5uemRM
