@@ -1,13 +1,13 @@
-#HW 5
-##Objective of the assignment : Implement a full end2end MLOps using wide and deep DNN model with proper feature engineering and preprocessing on the NYC Taxi Fare dataset pulled from Kaggle.
+# HW 5
+## Objective of the assignment : Implement a full end2end MLOps using wide and deep DNN model with proper feature engineering and preprocessing on the NYC Taxi Fare dataset pulled from Kaggle.
 
-Build with:
+## Build with:
 
-Tensorflow (EDA/VSA included) (1)
-Tensorflow with TFX (2)
-Pytorch (3)
-XGBoost (4)
-Feature Engineering:
+### Tensorflow (EDA/VSA included) (1)
+### Tensorflow with TFX (2)
+### Pytorch (3)
+### XGBoost (4)
+## Feature Engineering:
 
 Trip Distance
 division of pickup_datetime to HOUR,DAY, YEAR and MONTH
@@ -34,5 +34,7 @@ XGBoost (train-rmse:3.63329	test-rmse:4.33446):
 100k training data, Early stopping, Max Depth = 8, Gamma = 0, ETA = 0.05
 Reference/Modified code from the following notebooks:
 
-https://colab.research.google.com/drive/1xS2YjhCYGnOrsyVRKxqN-PvdFROSnDvM?authuser=1#scrollTo=fK9LdIbXN87L
-https://colab.research.google.com/gist/rafiqhasan/2164304ede002f4a8bfe56e5434e1a34/dl-e2e-taxi-dataset-tfx-e2e.ipynb
+ https://colab.research.google.com/drive/1xS2YjhCYGnOrsyVRKxqN-PvdFROSnDvM?authuser=1#scrollTo=0hkZkAFvWJF1
+ https://www.kaggle.com/sandeepkumar121995/eda-data-cleaning-xg-boost
+ https://towardsdatascience.com/deep-learning-using-pytorch-for-tabular-data-c68017d8b480
+ https://www.tensorflow.org/tfx/tutorials/tfx/components_keras https://colab.research.google.com/gist/rafiqhasan/2164304ede002f4a8bfe56e5434e1a34/dl-e2e-taxi-dataset-tfx-e2e.ipynb
