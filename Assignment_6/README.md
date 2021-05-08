@@ -12,4 +12,4 @@
 ##    Added pooling layer, rmsprop optimizer, loss, patience, stride, momemtum,
 ##    tensorboard integration
 ## 3. Transfer learning with Keras
-##
+## d. Keras Squeeznet
